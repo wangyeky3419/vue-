@@ -21,7 +21,7 @@
      */
     
     //Chirs_wang  top
-    window.UEDITOR_HOME_URL = "/static/ueditor/";
+    window.UEDITOR_HOME_URL = "static/ueditor/";
     //Chirs_wang  end
 
     var URL = window.UEDITOR_HOME_URL || getUEBasePath();
